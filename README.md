@@ -1,2 +1,2 @@
 # NEXTCIS-SYSTEM
-Application, Website, POS, TMS, shopping cart 
+Application, Website, shopping cart, payment gateway, POS, TMS,
